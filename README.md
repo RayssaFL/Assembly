@@ -1,2 +1,2 @@
 # Assembly
-Exercícios em assembly 
+Exercícios em assembly (básico)
