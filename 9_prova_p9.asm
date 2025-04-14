@@ -2,11 +2,11 @@
 .data
  num1: .asciiz "Informe o primeiro valor inteiro: "
  num2: .asciiz "Informe o segundo valor inteiro: "
- resultAdd: .asciiz "O valor da operaÁ„o soma È: "
- resultSub: .asciiz "\nO valor da operaÁ„o subtraÁ„o È: "
- resultMul: .asciiz "\nO valor da operaÁ„o multiplicaÁ„o È: "
- resultQuociente: .asciiz "\nO valor do quociente da divis„o È: "
- resultResto: .asciiz "\nO valor do resto da divis„o È: "
+ resultAdd: .asciiz "O valor da opera√ß√£o soma √©: "
+ resultSub: .asciiz "\nO valor da opera√ß√£o subtra√ß√£o √©: "
+ resultMul: .asciiz "\nO valor da opera√ß√£o multiplica√ß√£o √©: "
+ resultQuociente: .asciiz "\nO valor do quociente da divis√£o √©: "
+ resultResto: .asciiz "\nO valor do resto da divis√£o √©: "
  msg_fim: .asciiz "\nFim do programa."
  
 .text
